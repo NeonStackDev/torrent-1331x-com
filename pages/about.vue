@@ -2,7 +2,7 @@
 import AppLayout from './../layouts/AppLayout.vue'
 import TorrentAbout from '~/components/TorrentAbout.vue';
 useHead({
-  title: "1331x Torrent About",
+  title: "1331x Torrent About ",
   meta: [
     { name: 'description', content: "About 1331x Torrent downloads platform" },
 
