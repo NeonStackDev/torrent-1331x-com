@@ -38,7 +38,7 @@
         <br>
         <br>
         <a
-            href="https://1337.world"
+            href="https://1337x.world"
             target="_blank"
             rel="noopener noreferrer"
             class="font-bold text-red-600 hover:underline">
